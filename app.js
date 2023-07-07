@@ -6,7 +6,7 @@ markReadBtn.textContent = "mark as read";
 
 const messenger = [
   {
-    img: "/images/avatar-mark-webber.webp",
+    img: "./images/avatar-mark-webber.webp",
     name: "Mark Webber",
     read: false,
   },
